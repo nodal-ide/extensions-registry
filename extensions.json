@@ -4,7 +4,7 @@
     "com.nodal.forge-pack": {
       "name": "Svelte Syntax (sample)",
       "description": "Sample Svelte syntax pack using a trusted native tree-sitter grammar.",
-      "publisher": "Nodal IDE Samples",
+      "publisher": "Nodal IDE",
       "url": "https://github.com/nodal-ide/extensions-registry",
       "latest": "0.1.0",
       "versions": {
