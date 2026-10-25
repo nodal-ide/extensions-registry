@@ -1,17 +1,62 @@
 {
   "schemaVersion": 1,
   "extensions": {
-    "com.nodal.forge-pack": {
-      "name": "Svelte Syntax (sample)",
-      "description": "Sample Svelte syntax pack using a trusted native tree-sitter grammar.",
+    "com.nodal.vue-foundation": {
+      "name": "Vue Foundation",
+      "description": "Vue 3 single-file component syntax with embedded script, template, and style zones.",
       "publisher": "Nodal IDE",
-      "url": "https://github.com/nodal-ide/extensions-registry",
+      "url": null,
       "latest": "0.1.0",
       "versions": {
         "0.1.0": {
-          "url": "extensions/com.nodal.forge-pack/0.1.0/0.1.0.zip",
-          "integrity": "51ab62d4031c70b141812d5756216219248c57eb380980ea7e95e63598c30763",
-          "publishedAt": "2026-10-22T14:53:31Z",
+          "url": "extensions/com.nodal.vue-foundation/0.1.0/0.1.0.zip",
+          "integrity": "3c680e0b4f5fc3febccd8d1c4b25f0fdf6015bcc658a95e8e6a509d7053d9641",
+          "publishedAt": "2026-10-25T12:59:35Z",
+          "nodal": null
+        }
+      }
+    },
+    "com.nodal.flutter-foundation": {
+      "name": "Dart & Flutter Foundation",
+      "description": "Dart and Flutter completion for the built-in Dart syntax and highlighting.",
+      "publisher": "Nodal IDE",
+      "url": null,
+      "latest": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "url": "extensions/com.nodal.flutter-foundation/0.1.0/0.1.0.zip",
+          "integrity": "30f2df51ef08ec0c0380f3bac51bc455f9b8c30a41daad18fe9d9058995e2ce8",
+          "publishedAt": "2026-10-25T12:59:45Z",
+          "nodal": null
+        }
+      }
+    },
+    "com.nodal.svelte-foundation": {
+      "name": "Svelte Foundation",
+      "description": "Svelte syntax highlighting, embedded script/style zones, and completion.",
+      "publisher": "Nodal IDE",
+      "url": null,
+      "latest": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "url": "extensions/com.nodal.svelte-foundation/0.1.0/0.1.0.zip",
+          "integrity": "dce8b823165a4950609b3660ce750184cf10a511c9b759b6c35ad7673667b46d",
+          "publishedAt": "2026-10-25T12:59:53Z",
+          "nodal": null
+        }
+      }
+    },
+    "com.nodal.swift-foundation": {
+      "name": "Swift Foundation",
+      "description": "Swift completion for the built-in Swift syntax and highlighting.",
+      "publisher": "Nodal IDE",
+      "url": null,
+      "latest": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "url": "extensions/com.nodal.swift-foundation/0.1.0/0.1.0.zip",
+          "integrity": "f85ebd039d6adee108a9b4b7a5bac77fcc17fc5b9b27d7438d205ef6fc1f6332",
+          "publishedAt": "2026-10-25T13:00:01Z",
           "nodal": null
         }
       }
