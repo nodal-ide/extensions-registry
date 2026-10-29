@@ -18,15 +18,21 @@
     },
     "com.nodal.flutter-foundation": {
       "name": "Dart & Flutter Foundation",
-      "description": "Dart and Flutter completion for the built-in Dart syntax and highlighting.",
+      "description": "Dart and Flutter completion, hover docs, signature help, symbols and Flutter API diagnostics for the built-in Dart syntax.",
       "publisher": "Nodal IDE",
       "url": null,
-      "latest": "0.1.0",
+      "latest": "0.3.0",
       "versions": {
         "0.1.0": {
           "url": "extensions/com.nodal.flutter-foundation/0.1.0/0.1.0.zip",
           "integrity": "30f2df51ef08ec0c0380f3bac51bc455f9b8c30a41daad18fe9d9058995e2ce8",
           "publishedAt": "2026-10-25T12:59:45Z",
+          "nodal": null
+        },
+        "0.3.0": {
+          "url": "extensions/com.nodal.flutter-foundation/0.3.0/0.3.0.zip",
+          "integrity": "b49e81427f30da6d750f89c18cc8053015d3047ec1cf1dc6592c40488faa5374",
+          "publishedAt": "2026-10-29T03:43:26Z",
           "nodal": null
         }
       }
