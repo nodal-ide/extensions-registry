@@ -66,6 +66,21 @@
           "nodal": null
         }
       }
+    },
+    "com.nodal.theme-example": {
+      "name": "Nodal Theme Example",
+      "description": "Example theme pack showing the contributes.themes contract.",
+      "publisher": "Nodal IDE",
+      "url": null,
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "url": "extensions/com.nodal.theme-example/1.0.0/1.0.0.zip",
+          "integrity": "f26b884e4a8d153c35a43fe1f4338e226133fc1cda28e471ae5d049396f3e4b0",
+          "publishedAt": "2026-10-30T14:42:50Z",
+          "nodal": null
+        }
+      }
     }
   }
 }
